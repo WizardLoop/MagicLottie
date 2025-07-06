@@ -1,0 +1,32 @@
+name: Feature Request
+description: Suggest a new feature, improvement, or idea for MagicLottie.
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We love ideas! Please describe your suggestion below.
+
+  - type: input
+    id: summary
+    attributes:
+      label: Feature summary
+      placeholder: "Add undo/redo support"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve, or what new thing does it enable?
+      placeholder: "It would help users who make mistakes or want to revert changes."
+    validations:
+      required: false
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details or mockups (optional)
+      description: Explain your idea in more detail. If relevant, add a simple sketch or screenshot.
+    validations:
+      required: false
