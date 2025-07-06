@@ -22,4 +22,4 @@ Please fill out the sections below.
 - [ ] I tested my changes on desktop & mobile
 - [ ] No code style or linter errors
 - [ ] I updated documentation (if relevant)
-- [ ] I read and followed the [Code of Conduct](../CODE_OF_CONDUCT.md)
+- [ ] I read and followed the [Code of Conduct](CODE_OF_CONDUCT.md)
