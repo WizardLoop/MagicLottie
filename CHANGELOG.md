@@ -1,4 +1,4 @@
-# 📜 Changelog — MagicLottie
+# 📜 Changelog MagicLottie
 
 All notable changes to this project will be documented here.
 
