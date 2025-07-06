@@ -16,7 +16,7 @@ Perfect for Telegram sticker creators, designers, or anyone who loves animation!
 2. Open `index.html` in your browser, that's it!  
    No installation, no server, works 100% offline.
 
-3. Or try the [**Live Demo**](https://wizardloop.github.io/magiclottie/) now!
+3. Or try the [**Live Demo**](https://wizardloop.github.io/MagicLottie/) now!
 
 ---
 
@@ -73,7 +73,7 @@ See [LICENSE](LICENSE)
 ## 🌐 Important Links
 
 - [GitHub Repository](https://github.com/wizardloop/magiclottie)
-- [Live Demo](https://wizardloop.github.io/magiclottie/)
+- [Live Demo](https://wizardloop.github.io/MagicLottie/)
 - [Report an Issue](https://github.com/wizardloop/magiclottie/issues)
 - [All Releases](https://github.com/wizardloop/magiclottie/releases)
 
