@@ -1,0 +1,26 @@
+name: Improvement / Question
+description: Suggest a small improvement, ask a question, or get clarification.
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Not sure about something? Want to suggest a tweak? Tell us here!
+
+  - type: input
+    id: topic
+    attributes:
+      label: What is your suggestion or question about?
+      placeholder: "Color scheme, export UX, project roadmap..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: More details
+      description: "Provide any extra details, links, or context."
+      placeholder: |
+        Why do you think this would help, or what do you want to know?
+    validations:
+      required: false
