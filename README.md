@@ -48,7 +48,7 @@ Perfect for Telegram sticker creators, designers, or anyone who loves animation!
 - [bodymovin/lottie-web](https://github.com/airbnb/lottie-web)
 - [pako](https://github.com/nodeca/pako) (for TGS GZIP)
 - [Font Awesome](https://fontawesome.com/)
-- Pure HTML, CSS, vanilla JS — ultra lightweight!
+- Pure HTML, CSS, vanilla JS - ultra lightweight!
 
 ---
 
